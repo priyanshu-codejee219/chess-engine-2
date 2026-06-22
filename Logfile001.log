@@ -1,0 +1,47 @@
+Engine-Match 23 June 2026 03:35:48
+ 5 Half moves 
+
+Pairing 1/1 :    My_engine_1 [001]  -  My_engine_1 [005]
+
+PGN-File: C:\Users\Priyanshu Kumar\Downloads\arena_3.5\Arena.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+   1 = =    0.5:0.5        0.5:0.5       03:36:03     0.00    30 5.000 :5.000  0-0-1
+
+--------------------------------------------------------------
+
+Engine-Match 23 June 2026 04:10:47
+ 5 Half moves 
+
+Pairing 1/1 :    My_engine_1 [001]  -  My_engine_2
+
+PGN-File: C:\Users\Priyanshu Kumar\Downloads\arena_3.5\Arena.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+   1 B 2    1.0:0.0        0.0:1.0       04:11:02     0.00    19 5.000 :5.000  0-1-0
+
+--------------------------------------------------------------
+
+Engine-Match 23 June 2026 04:26:16
+ 4 Half moves 
+
+Pairing 1/1 :    Tscp181  -  My_engine_2 [001]
+
+PGN-File: C:\Users\Priyanshu Kumar\Downloads\arena_3.5\Arena.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+   1 = =    0.5:0.5        0.5:0.5       04:26:26     0.00    20 4.000 :4.000  0-0-1
+
+--------------------------------------------------------------
+
+Engine-Match 23 June 2026 04:46:55
+ 4 Half moves 
+
+Pairing 1/1 :    Tscp181  -  My_engine_2 [002]
+
+PGN-File: C:\Users\Priyanshu Kumar\Downloads\arena_3.5\Arena.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+   1 W 1    1.0:0.0        1.0:0.0       04:47:22      +M0    48 4.000 :4.000  1-0-0
+   1 * *     0.0:0.0        0.0:0.0       04:54:32     0.00     6 4.000 :0 0-0-0
+   1 W 1    1.0:0.0        1.0:0.0       04:55:22     0.00    40 4.000 :4.000  1-0-0
